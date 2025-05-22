@@ -38,4 +38,4 @@ terraform apply
 
 ---
 
-Hecho con 💻 por un sysadmin curioso ✨
+Hecho con 💻 por @juantopx (un sysadmin curioso) ✨
